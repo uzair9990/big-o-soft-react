@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/big-o-soft-react/static/css/main.7f11bed7.css",
+    "main.js": "/big-o-soft-react/static/js/main.f8b39639.js",
+    "index.html": "/big-o-soft-react/index.html",
+    "main.7f11bed7.css.map": "/big-o-soft-react/static/css/main.7f11bed7.css.map",
+    "main.f8b39639.js.map": "/big-o-soft-react/static/js/main.f8b39639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f11bed7.css",
+    "static/js/main.f8b39639.js"
+  ]
+}
