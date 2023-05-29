@@ -9,7 +9,6 @@ const useFetch = (URL) => {
       const response = await fetch(URL);
       const json = await response.json();
       setJson(json);
-      console.log("Data in Fetch", json);
     } catch (error) {
       setError("AN ERROR OCCURRED WHILE FETCHING DATA:", error);
     }
