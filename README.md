@@ -6,7 +6,8 @@ To use the app yourself, see the deployment on GitHub pages at the following add
 ## React.js Concepts Used
 The following React.js concepts have been used to make the app:
 - State management
-- JavaScript logic Component side-effects
+- JavaScript logic 
+- Component side-effects
 - Multi-threaded async task cleanups
 - Custom React.js hooks
 - Built-in React.js hooks
